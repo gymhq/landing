@@ -46,8 +46,8 @@ export default function PrivacyPage() {
                 <h2 className="mb-2 font-medium text-zinc-900">
                   2. Company Information
                 </h2>
-                <p>Legal Name: GYMHQ</p>
-                <p>Address: Ranchi, India</p>
+                <p>Legal Name: KARN STACK (Sole Proprietorship)</p>
+                <p>Address: New Delhi, Delhi, India</p>
                 <p>
                   Contact Email:{' '}
                   <a
@@ -334,8 +334,8 @@ export default function PrivacyPage() {
                   at:
                 </p>
                 <div className="mt-2">
-                  <p>GYMHQ</p>
-                  <p>Ranchi, India</p>
+                  <p>KARN STACK (Sole Proprietorship)</p>
+                  <p>New Delhi, Delhi, India</p>
                   <p>
                     Email:{' '}
                     <a

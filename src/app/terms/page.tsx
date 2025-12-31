@@ -46,8 +46,8 @@ export default function TermsPage() {
                 <h2 className="mb-2 font-medium text-zinc-900">
                   2. About GYMHQ
                 </h2>
-                <p>Legal Name: GYMHQ</p>
-                <p>Address: Ranchi, India</p>
+                <p>Legal Name: KARN STACK (Sole Proprietorship)</p>
+                <p>Address: New Delhi, Delhi, India</p>
                 <p>
                   Contact Email:{' '}
                   <a
@@ -350,7 +350,7 @@ export default function TermsPage() {
                   These Terms of Service shall be governed by and construed in
                   accordance with the laws of India. Any disputes arising from
                   these terms or your use of GYMHQ shall be subject to the
-                  exclusive jurisdiction of the courts in Ranchi, Jharkhand,
+                  exclusive jurisdiction of the courts in New Delhi, Delhi,
                   India.
                 </p>
                 <p>
@@ -397,8 +397,8 @@ export default function TermsPage() {
                   these Terms of Service, please contact us at:
                 </p>
                 <div className="mt-2">
-                  <p>GYMHQ</p>
-                  <p>Ranchi, India</p>
+                  <p>KARN STACK (Sole Proprietorship)</p>
+                  <p>New Delhi, Delhi, India</p>
                   <p>
                     Email:{' '}
                     <a
